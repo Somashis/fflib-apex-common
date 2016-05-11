@@ -1,3 +1,11 @@
+FinancialForce Apex Common (@ Cloud Lending)
+============================================
+1. Do not sync this fork from  financialforcedev/fflib-apex-common without Admin's notice.
+2. Use [Apex Mock @ Cloud Lending] (https://github.com/cloudlending/fflib-apex-mocks). instead of [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) as mentioned below.
+3. At regular interval we will sync these repositories from respective roots. 
+4. Any modifications to these libraries needed for Cloud Lending will be sent through pull-request to respective root repositories for acceptance.
+5. This readme will never be pushed to root repository.
+
 FinancialForce Apex Common
 ==========================
 
